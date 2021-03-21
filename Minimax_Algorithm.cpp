@@ -1,4 +1,4 @@
-// Minimax_Algorithm.cpp
+// Minimax_Algorithm.cpp (for Othello AI)
 #include<algorithm>
 
 int thomasqv::myOthelloAI::minimax(const OthelloGameState& state, 
